@@ -6,6 +6,8 @@ A web app called *Learning Log* that allows users to log the topics they've inte
 The *Learning Log* homepage will describe the site and invite users to either register or log in. Once logged in, a user can create new topics, add
 new entries, and read and edit existing entries.
 
+![Sample](https://github.com/kenjidesu/Learning-Log/blob/main/topics.PNG)
+
 ## How to run:
   - Step 1: Clone the repository\
     `git clone https://github.com/kenjidesu/Learning-Log`
